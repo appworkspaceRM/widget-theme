@@ -31,7 +31,7 @@ didalam widget Theme banyak sekali properti yang harus di isi untuk menentukan t
 - appBarTheme : memerlukan Widget AppBarTheme digunakan untuk mengubah tema dari AppBar
 - textTheme : memerlukan widget TextTheme digunakan untuk merubah thema dari text
 
-foto 1
+![Capture](https://github.com/appworkspaceRM/widget-theme/assets/135511281/d2670c5a-8e6d-43c6-b1cf-6a2c7bf9a23b)
 
 ```dart
 import 'package:flutter/material.dart';
@@ -115,5 +115,5 @@ class HomePage extends StatelessWidget {
 }
 
 ```
+![code-snapshot](https://github.com/appworkspaceRM/widget-theme/assets/135511281/7d74693f-3789-47cc-9631-f81217ac4dbe)
 
-foto 2
